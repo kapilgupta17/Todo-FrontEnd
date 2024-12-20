@@ -1,6 +1,6 @@
-# Todo-FrontEnd (React.js)
+# Todo-FrontEnd (Next.js)
 
-This is the frontend for the Todo App. It is built using **React.js**, **Tailwind CSS**, and **TypeScript** for a responsive and dynamic user interface.
+This is the frontend for the Todo App. It is built using **Next.js**, **Tailwind CSS**, and **TypeScript** for a responsive and dynamic user interface.
 
 ## Setup Instructions
 
@@ -11,7 +11,7 @@ This is the frontend for the Todo App. It is built using **React.js**, **Tailwin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/todo-frontend.git
+git clone https://github.com/kapilgupta17/Todo-FrontEnd.git
 cd todo-frontend
 ```
 
@@ -22,7 +22,7 @@ npm install
 
 ### 3. Start the Development Server
 ```bash
-npm start
+npm run dev
 ```
 The development server will now be running on [http://localhost:3000](http://localhost:3000). Open this in your browser to see the frontend application.
 
@@ -34,8 +34,8 @@ npm run build
 This will create a build directory with the optimized production version of your app.
 
 ## Technologies Used
-- React.js
+- Next.js
 - TypeScript
 - Tailwind CSS
-- Axios (for making HTTP requests)
-- React Router (for routing)
+
+
